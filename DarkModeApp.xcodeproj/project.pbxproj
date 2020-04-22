@@ -13,6 +13,7 @@
 		6C2A4F9F245072830030A723 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6C2A4F9D245072830030A723 /* Main.storyboard */; };
 		6C2A4FA1245072840030A723 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6C2A4FA0245072840030A723 /* Assets.xcassets */; };
 		6C2A4FA4245072840030A723 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6C2A4FA2245072840030A723 /* LaunchScreen.storyboard */; };
+		6C2A4FAC245073050030A723 /* DetailVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C2A4FAB245073050030A723 /* DetailVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		6C2A4FA0245072840030A723 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6C2A4FA3245072840030A723 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6C2A4FA5245072840030A723 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6C2A4FAB245073050030A723 /* DetailVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				6C2A4FA0245072840030A723 /* Assets.xcassets */,
 				6C2A4FA2245072840030A723 /* LaunchScreen.storyboard */,
 				6C2A4FA5245072840030A723 /* Info.plist */,
+				6C2A4FAB245073050030A723 /* DetailVC.swift */,
 			);
 			path = DarkModeApp;
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6C2A4F9C245072830030A723 /* ViewController.swift in Sources */,
+				6C2A4FAC245073050030A723 /* DetailVC.swift in Sources */,
 				6C2A4F98245072830030A723 /* AppDelegate.swift in Sources */,
 				6C2A4F9A245072830030A723 /* SceneDelegate.swift in Sources */,
 			);
