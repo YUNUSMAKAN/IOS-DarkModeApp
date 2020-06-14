@@ -1,2 +1,2 @@
-# IOS-DarkModeApp
-IOS Dark Mode 
+# iOS-DarkModeApp
+* iOS Dark Mode 
